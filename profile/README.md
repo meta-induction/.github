@@ -15,4 +15,4 @@ A <i>principle of induction</i> might be a statement with the help of which we c
 4. To validate it, we'd need to use inductive inferences. Yet, to support these new 'meta-inductive' inference, we'd have to presuppose a higher-order inductive principle over and over again _ad infinitum_. Therefore, thought the philosophers of the past, trying to ground the principle of induction in experience "fails", as it leads to an "endless" chain of reasoning — a "never-ending" regress.
 
 # Meta-induction
-... and meta-meta...-meta-induction, with a cut-off value of order will help us to enter the _**new**_ age.
+... and meta-meta...-meta-induction, with a cut-off value of order will help us enter the _**new**_ age.
