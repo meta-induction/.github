@@ -16,3 +16,4 @@ A <i>principle of induction</i> might be a statement with the help of which we c
 
 # Meta-induction
 ... and meta-meta...-meta-induction, with a cut-off value of order will help us enter the _**new**_ age.
+We will find justification of "trial and error" method by trial and error _with memory_.
